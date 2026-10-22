@@ -1,6 +1,7 @@
 site_name: 2026年新版雅思成绩单样本设计制作图表格内容解析
+site_url: https://yasicj.github.io/xyscjd/
 theme:
-  name: readthedocs
+  name: material
   custom_dir: overrides
 
 extra_templates:
