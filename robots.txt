@@ -1,0 +1,13 @@
+User-agent: baidu
+crawl-delay: 1
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: bingbot
+Allow: /
+
+# 全站封杀字节跳动 AI 爬虫，防止单页核心原创被白嫖截流
+User-agent: Bytespider
+Disallow: /
